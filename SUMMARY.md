@@ -1,5 +1,4 @@
-# Table of contents
-
+#Índice
 * [OpenMP](README.md)
 
 ## Instalación
