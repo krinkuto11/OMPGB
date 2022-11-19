@@ -1,6 +1,6 @@
 # Arch Linux
 
----
+
   Como preparar el espacio de compilación en cualquier distribución de Linux
   basada en Arch (ej: Manjaro)
 ---
