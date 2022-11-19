@@ -1,5 +1,4 @@
 ---
-description: >-
   Fuentes desde las que se ha sacado información vital para la realización de
   este proyecto
 ---
