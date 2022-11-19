@@ -1,6 +1,5 @@
 # Windows
 
----
 Cómo preparar el espacio de compilación en Windows 10 o superior
 ---
 
