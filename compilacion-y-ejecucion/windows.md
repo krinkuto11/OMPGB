@@ -1,7 +1,6 @@
 # Windows
 
-  Como compilar y ejecutar programas en C/C++ con OpenMP en Windows 10 o
-  superior
+  Como compilar y ejecutar programas en C/C++ con OpenMP en Windows 10 o superior
 ---
 
 
