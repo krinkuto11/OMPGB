@@ -1,6 +1,6 @@
 # Documentación extra
 
----
+
   Aquí se encuentra código hecho por el grupo y que no se halla en la
   bibliografía
 ---
