@@ -1,7 +1,6 @@
 # Arch Linux
 
-  Como compilar y ejecutar programas en C/C++ con OpenMP en cualquier
-  distribución de Linux basada en Arch (ej: Manjaro)
+  Como compilar y ejecutar programas en C/C++ con OpenMP en cualquier distribución de Linux basada en Arch (ej: Manjaro)
 ---
 
 
