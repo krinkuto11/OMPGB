@@ -1,6 +1,6 @@
 # MacOS
 
----
+
 Cómo preparar el espacio de compilación en MacOS Catalina o superior
 ---
 
