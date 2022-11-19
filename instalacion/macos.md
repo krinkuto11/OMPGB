@@ -1,7 +1,7 @@
 # MacOS
 
 ---
-description: Cómo preparar el espacio de compilación en MacOS Catalina o superior
+Cómo preparar el espacio de compilación en MacOS Catalina o superior
 ---
 
 ### 1. Instalar Brew
