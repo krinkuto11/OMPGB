@@ -19,7 +19,7 @@ Una vez hecho esto, ya podemos compilar cualquier archivo. En nuestro caso vamos
 
 Se debe usar la flag -fopenmp para todos los programas que incluyan sintaxis de OpenMP.
 
-```shell
+```
 gcc -fopenmp <nombre de archivo>
 ```
 
