@@ -1,7 +1,6 @@
 # MacOS
 
-  Como compilar y ejecutar programas en C/C++ con OpenMP en MacOS Catalina o
-  superior
+  Como compilar y ejecutar programas en C/C++ con OpenMP en MacOS Catalina o superior
 ---
 
 
