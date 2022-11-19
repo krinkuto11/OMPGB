@@ -1,7 +1,7 @@
 # Windows
 
 ---
-description: Cómo preparar el espacio de compilación en Windows 10 o superior
+Cómo preparar el espacio de compilación en Windows 10 o superior
 ---
 
 ### 1. Instalar GCC
