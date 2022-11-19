@@ -1,6 +1,5 @@
 # Ejemplos de programas
 
----
 En esta sección se pueden encontrar los ejemplos utilizados en la presentación
 ---
 
