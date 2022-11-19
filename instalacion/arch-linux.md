@@ -1,10 +1,10 @@
+# Arch Linux
+
 ---
-description: >-
   Como preparar el espacio de compilación en cualquier distribución de Linux
   basada en Arch (ej: Manjaro)
 ---
 
-# Arch Linux
 
 ### 1. Actualizar la base de datos del gestor de paquetes
 
