@@ -1,9 +1,10 @@
-# Bibliografía
-
+---
+description: >-
   Fuentes desde las que se ha sacado información vital para la realización de
   este proyecto
 ---
 
+# Bibliografía
 
 Wikipedia.org: [OpenMP](https://en.wikipedia.org/wiki/OpenMP), [Paralelismo](https://en.wikipedia.org/wiki/Parallel\_computing)
 

@@ -1,15 +1,16 @@
-# Arch Linux
-
-
-  Cómo preparar el espacio de compilación en cualquier distribución de Linux basada en Arch (ej: Manjaro)
+---
+description: >-
+  Como preparar el espacio de compilación en cualquier distribución de Linux
+  basada en Arch (ej: Manjaro)
 ---
 
+# Arch Linux
 
 ### 1. Actualizar la base de datos del gestor de paquetes
 
 Para asegurarnos de que descargamos una versión actualizada de GCC y OpenMP, actualizamos la base de datos de Pacman con este comando:
 
-```
+```shell
 sudo pacman -Syu
 ```
 
@@ -19,7 +20,7 @@ Lo siguiente es instalar un compilador. Vamos a usar GCC (GNU Compiler Collectio
 
 Para instalarlo introducimos este comando en el terminal:
 
-```
+```shell
 sudo pacman -S gcc
 ```
 
@@ -29,7 +30,7 @@ Por último, necesitamos instalar la librería OpenMP.
 
 Para ello utilizamos el siguiente comando:
 
-```
+```shell
 sudo pacman -S openmp
 ```
 

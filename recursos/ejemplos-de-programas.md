@@ -1,11 +1,12 @@
-# Ejemplos de programas
-
-En esta sección se pueden encontrar los ejemplos utilizados en la presentación
+---
+description: En esta sección se pueden encontrar los ejemplos utilizados en la presentación
 ---
 
-Nota:
-Hace falta configurar la propiedad numeroHilos en cada programa (Excepto Hola Hilos) acorde a la cantidad de hilos que tiene el sistema en el que se va a ejecutar
+# Ejemplos de programas
 
+{% hint style="info" %}
+Hace falta configurar la propiedad numeroHilos en cada programa (Excepto Hola Hilos) acorde a la cantidad de hilos que tiene el sistema en el que se va a ejecutar
+{% endhint %}
 
 ### Hola Hilos
 
@@ -19,8 +20,9 @@ Hace falta configurar la propiedad numeroHilos en cada programa (Excepto Hola Hi
 
 ### Sucesión de Fibonacci
 
-Nota:
+{% hint style="info" %}
 Es necesario usar la flag -lm para compilar con éxito los programas "Secuencial Matemática" y "Paralela Matemática"
+{% endhint %}
 
 * [Secuencial Recursiva](https://github.com/krinkuto11/EjemplosOMP/blob/87a143515858a6d2da2c393250c3fa0ff42ad5d5/Fibonacci/3%20Fibonacci%20Secuencial%20Recursiva.c)
 * [Paralela Recursiva](https://github.com/krinkuto11/EjemplosOMP/blob/87a143515858a6d2da2c393250c3fa0ff42ad5d5/Fibonacci/3%20Fibonacci%20Paralela%20Recursiva.c)
@@ -29,8 +31,9 @@ Es necesario usar la flag -lm para compilar con éxito los programas "Secuencial
 
 ### Multiplicación de Matrices
 
-Nota:
+{% hint style="info" %}
 Es necesario definir el rango de las matrices dentro del programa antes de compilarlo
+{% endhint %}
 
 * [Multiplicación Secuencial](https://github.com/krinkuto11/EjemplosOMP/blob/a0602f43da71ad96756d537354c183e26e1ee583/Multiplicacio%CC%81n%20Matrices/mulMatSec.c)
 * [Multiplicación Paralela](https://github.com/krinkuto11/EjemplosOMP/blob/a0602f43da71ad96756d537354c183e26e1ee583/Multiplicacio%CC%81n%20Matrices/mulMatParalelo2.c)

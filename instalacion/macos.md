@@ -1,8 +1,8 @@
-# MacOS
-
-
-Cómo preparar el espacio de compilación en MacOS Catalina o superior
 ---
+description: Cómo preparar el espacio de compilación en MacOS Catalina o superior
+---
+
+# MacOS
 
 ### 1. Instalar Brew
 
@@ -10,9 +10,8 @@ Primero de todo, necesitamos tener a nuestra disposición un instalador de paque
 
 Para instalarlo, abrimos la terminal e introducimos:
 
-```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-```
+<pre class="language-shell"><code class="lang-shell"><strong>/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+</strong></code></pre>
 
 Nota: para instalar Brew necesitamos permisos de administrador
 
@@ -24,7 +23,7 @@ Lo siguiente es instalar un compilador. Vamos a usar GCC (GNU Compiler Collectio
 
 Para instalarlo introducimos este sencillo comando en el terminal:
 
-```
+```shell
 brew install gcc
 ```
 
@@ -34,7 +33,7 @@ Para utilizar OpenMP en MacOS, lo instalamos en forma de librería.
 
 Introducimos el siguiente comando en la terminal:
 
-```
+```bash
 brew install libomp
 ```
 
